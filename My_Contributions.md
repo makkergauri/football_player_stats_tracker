@@ -1,6 +1,6 @@
 # My Contributions
 
-This is a fork of [original-owner/PlayVision](https://github.com/ishit-10/football_player_stats_tracker),
+This is a fork of [original-file/PlayVision](https://github.com/ishit-10/football_player_stats_tracker),
 a team project. This file covers only the parts I worked on.
 
 ## What I worked on
